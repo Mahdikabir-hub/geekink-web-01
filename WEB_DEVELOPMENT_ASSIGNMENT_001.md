@@ -1,16 +1,18 @@
-FRONTEND (USER SIDE)
-   Frontend is the part of a website or appilcation you can see and interact with.
-   -Buttons
-   -Text
-   -Images
-   -Forms
-Example; when you open instagram,everything you see (posts,comments,likes)
-common tools
--HTML (STRUCTURE)
--CSS (DESIGN)
--JAVASCRIPT (INTERATION)
+# FRONTEND (USER SIDE)
 
-BACKEND (SERVER SIDE)
+Frontend is the part of a website or appilcation you can see and interact with.
+   - Buttons
+   - Text
+   - Images
+   - Forms
+## Example;
+when you open instagram,everything you see (posts,comments,likes)
+common tools
+      - HTML (STRUCTURE)
+      - CSS (DESIGN)
+      - JAVASCRIPT (INTERATION)
+
+# BACKEND (SERVER SIDE)
     Backend is the part you don"t see it work behind the scences.
     -Store data (like user accounts)
     -Processes request
