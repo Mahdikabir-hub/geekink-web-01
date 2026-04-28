@@ -1,5 +1,6 @@
 # geekink-web-0
 
+![](./picture.jpg)
 ## web development assignment
 
 
